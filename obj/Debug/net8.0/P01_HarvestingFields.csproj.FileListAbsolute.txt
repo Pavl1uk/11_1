@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\P01_HarvestingFields\bin\Debug\net8.0\P01_HarvestingFields.exe
+C:\Users\Acer\Desktop\P01_HarvestingFields\bin\Debug\net8.0\P01_HarvestingFields.deps.json
+C:\Users\Acer\Desktop\P01_HarvestingFields\bin\Debug\net8.0\P01_HarvestingFields.runtimeconfig.json
+C:\Users\Acer\Desktop\P01_HarvestingFields\bin\Debug\net8.0\P01_HarvestingFields.dll
+C:\Users\Acer\Desktop\P01_HarvestingFields\bin\Debug\net8.0\P01_HarvestingFields.pdb
+C:\Users\Acer\Desktop\P01_HarvestingFields\obj\Debug\net8.0\P01_HarvestingFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\P01_HarvestingFields\obj\Debug\net8.0\P01_HarvestingFields.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\P01_HarvestingFields\obj\Debug\net8.0\P01_HarvestingFields.AssemblyInfo.cs
+C:\Users\Acer\Desktop\P01_HarvestingFields\obj\Debug\net8.0\P01_HarvestingFields.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\P01_HarvestingFields\obj\Debug\net8.0\P01_HarvestingFields.dll
+C:\Users\Acer\Desktop\P01_HarvestingFields\obj\Debug\net8.0\refint\P01_HarvestingFields.dll
+C:\Users\Acer\Desktop\P01_HarvestingFields\obj\Debug\net8.0\P01_HarvestingFields.pdb
+C:\Users\Acer\Desktop\P01_HarvestingFields\obj\Debug\net8.0\P01_HarvestingFields.genruntimeconfig.cache
+C:\Users\Acer\Desktop\P01_HarvestingFields\obj\Debug\net8.0\ref\P01_HarvestingFields.dll
